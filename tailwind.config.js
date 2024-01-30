@@ -8,7 +8,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        "single-day": ['Single Day']
+        "single-day": ['Single Day'],
+        'nunito': ['Nunito'],
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",

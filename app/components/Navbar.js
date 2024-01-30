@@ -4,7 +4,7 @@ import { Hamburger } from './Hamburger'
 
 const Navbar = () => {
   return (
-    <div className='flex justify-between items-center lg:px-32 md:py-10 bg-transparent p-5'>
+    <div className='flex justify-between items-center lg:px-32 md:py-10 bg-transparent p-5 z-10 relative'>
         <div className="left-nav bg-white rounded-lg">
             <Image 
                 src="/media/brandlogo.png"
