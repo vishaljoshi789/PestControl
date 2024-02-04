@@ -18,9 +18,6 @@ export default function Home() {
           <WelcomeSection />
           <Galary />
           <WorkSection />
-          
-          
-
         </div>
       </div>
     </main>
