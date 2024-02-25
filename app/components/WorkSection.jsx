@@ -3,7 +3,7 @@ import React from 'react'
 
 const WorkSection = () => {
   return (
-    <div className='flex items-center justify-center'>
+    <div className='flex items-center justify-center' id='slogan'>
         
         <div className="w-max flex justify-center items-center bg-[rgb(0,27,83,1)]">
           <div className="p-10 text absolute bg-transparent text-white flex flex-col justify-center gap-5 md:text-2xl">

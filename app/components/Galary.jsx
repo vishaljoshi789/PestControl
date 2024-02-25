@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const Galary = () => {
   return (
-    <div className="bg-[#FF8400] flex justify-center lg:p-10 p-3 lg:m-5 my-10 lg:my-20 rounded-md flex-col items-center gap-2 lg:gap-5">
+    <div className="bg-[#FF8400] flex justify-center lg:p-10 p-3 lg:m-5 my-10 lg:my-20 rounded-md flex-col items-center gap-2 lg:gap-5" id="galary">
             <span className="text-white font-bold lg:text-3xl text-center">Our Gallery</span>
             <Carousel className="rounded-xl w-full md:w-1/2">
             <Image 
